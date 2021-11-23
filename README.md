@@ -8,6 +8,9 @@ La base de datos utilizada fue un subconjunto de la base de datos "TM-1-2019" di
 
 https://github.com/google-research-datasets/Taskmaster
 
+
+## Descripción de los archivos
+
 + ProyectoFinal_MétodosAnalíticos_Presentación.pdf: presentación ejecutiva del proyecto.
 + ProyectoFinal_MétodosAnalíticos_Reporte.pdf: el reporte del proyecto. Se describe con mayor detalle el modelo utilizado, los datos, la implementación del modelo, así como los resultados obtenidos.
 + limpieza.py: código de python en el cual se ejecuta la limpieza de la base de datos.
